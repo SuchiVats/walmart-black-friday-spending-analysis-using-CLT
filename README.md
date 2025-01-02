@@ -1,0 +1,2 @@
+# walmart-black-friday-spending-analysis-using-CLT
+A data analysis project focused on understanding customer spending behavior. The analysis compares spending habits of male vs. female , married vs. unmarried customers, and different age groups. Confidence intervals and the Central Limit Theorem (CLT) are used to estimate population spending averages and draw insights for business decision-making.
